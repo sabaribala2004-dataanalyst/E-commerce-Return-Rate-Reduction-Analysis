@@ -5,6 +5,9 @@ Product returns are one of the biggest challenges in the E-commerce industry, di
 This project focuses on identifying the key factors influencing product returns, analyzing category and supplier performance, and predicting return risk using a logistic regression model.  
 By integrating SQL, Power BI, and Python, the project provides a complete analytical workflow — from raw data cleaning to predictive modeling and dashboard visualization.
 
+### 📌 Project Task
+![Project Task](https://github.com/user-attachments/assets/1cd6a1af-92c7-4ed6-8fb0-135fc7178ad4)
+
 ---
 
 ## 🧠 Abstract
