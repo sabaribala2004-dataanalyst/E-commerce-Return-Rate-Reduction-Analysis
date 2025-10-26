@@ -1,0 +1,11 @@
+﻿category,marketing_channel,region,Sum of total_orders,Sum of total_returns,Sum of return_rate_pct
+Beauty,Email,Canada,30,7,23.33
+Electronics,Google Ads,Canada,73,15,20.55
+Electronics,Referral,Australia,10,2,20
+Electronics,Referral,India,23,5,21.74
+Electronics,Referral,UK,10,2,20
+Fashion,Email,Canada,74,15,20.27
+Fashion,Email,UK,95,20,21.05
+Fashion,Facebook/Instagram,Canada,86,18,20.93
+Fashion,Facebook/Instagram,India,194,37,19.07
+Fashion,Organic,India,371,72,19.41
