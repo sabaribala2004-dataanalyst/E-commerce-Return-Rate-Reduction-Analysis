@@ -38,7 +38,7 @@ The combined approach provides actionable insights for optimizing supplier quali
 ## 🚀 Deliverables
 - ✅ **Interactive Power BI Dashboard** with drill-through filters for detailed insights  <a href="https://github.com/sabaribala2004-dataanalyst/E-commerce-Return-Rate-Reduction-Analysis/blob/main/Rate%20Reduction%20Analysis%20Dashboard.pbix"> Click to See Report</a>
 - ✅ **Python Codebase** to train and test logistic regression model for return prediction <a href="https://github.com/sabaribala2004-dataanalyst/E-commerce-Return-Rate-Reduction-Analysis/blob/main/Return%20Risk%20Prediction.py"> Python Prediction File</a>
-- ✅ **CSV Output File** containing high-risk products with predicted return probability scores  <a href="https://github.com/sabaribala2004-dataanalyst/E-commerce-Return-Rate-Reduction-Analysis/blob/main/Project%20Report.pdf"> Overall Project Report</a>
+- ✅ **CSV Output File** containing high-risk products with predicted return probability scores  <a href="https://github.com/sabaribala2004-dataanalyst/E-commerce-Return-Rate-Reduction-Analysis/blob/main/High%20Risk%20Products.csv"> High Risk Products</a>
 
 ---
 
