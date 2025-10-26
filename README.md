@@ -76,6 +76,17 @@ The combined approach provides actionable insights for optimizing supplier quali
 - Enabled business users to monitor suppliers and categories that require intervention.
 
 ---
+## 📊 Dashboard Preview
+The Power BI dashboard highlights:
+- Return % by category, supplier, and region
+- Return trends over time
+- High-risk product analysis from the Python model
+
+![Page 01](https://github.com/user-attachments/assets/cc8553a7-e19c-4f3d-acb8-9fec6fc40f42)
+
+![Page 02](https://github.com/user-attachments/assets/d4778cc5-9b3b-4876-a64f-5658a162d330)
+
+
 
 ## 🎯 Conclusion
 The **E-commerce Return Analysis & Prediction Project** delivers a data-driven framework to understand and reduce product returns.  
