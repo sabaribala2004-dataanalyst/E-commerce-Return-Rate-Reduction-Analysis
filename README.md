@@ -107,10 +107,8 @@ The **E-commerce Return Analysis & Prediction Project** delivers a data-driven f
 
 ## 👤 Author
 **Sabari Bala**  
-📧  <a href=" [https://github.com/sabaribala2004-dataanalyst]"> sabaribala2004-dataanalyst</a> 
-
+📧  <a href="https://github.com/sabaribala2004-dataanalyst" target="_blank">sabaribala2004-dataanalyst</a>  
 💼 *Data Analyst | SQL | Power BI | Python | Excel*
 
----
 
 
