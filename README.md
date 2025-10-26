@@ -98,5 +98,4 @@ The **E-commerce Return Analysis & Prediction Project** delivers a data-driven f
 
 ---
 
-### 📝 Repository Description (350 Characters)
-End-to-end E-commerce Return Analysis project using PostgreSQL, Power BI, and Python. Includes SQL queries, logistic regression model, and dashboards to analyze return trends, identify high-risk products, and predict return probability for data-driven decision-making.
+
